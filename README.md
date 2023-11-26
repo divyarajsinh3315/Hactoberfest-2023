@@ -1,4 +1,8 @@
-# Medusa Hackathon 2022 - README Guidelines
+>>>>HELLO I AM A README FILE
+>>>>I am learning how to use git and github
+
+
+Medusa Hackathon 2022 - README Guidelines
 
 ![Medusa Hackathon 2022](hackathon-banner.jpg)
 
